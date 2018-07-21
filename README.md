@@ -1,5 +1,5 @@
-# Fahrtendienst
-Fahrtendienst Dispo Software
+# Fahrtendienst CP
+Fahrtendienst Dispo Software by Trajilovic Goran
 
 Fahrtendienst Application is a complete solution for connecting customers with taxis. The application is developed for both users and drivers, with separate logins for each. Users can request a ride from the nearest driver, and drivers can make their cars available and accept requests.
 
